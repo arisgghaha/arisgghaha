@@ -1,50 +1,46 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&text=Hi%20there,%20I'm%20Aris!%20👋&fontSize=70&fontAlignY=40&desc=Frontend%20Developer%20%26%20UI/UX%20Enthusiast%20from%20Bali%20🇮🇩&descAlignY=65&descSize=20&animation=fadeIn" alt="Header Aris" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=220&section=header&text=Aris%20Bayu&fontSize=80&fontAlignY=35&desc=Web%20UI%2FUX%20%26%20Frontend%20Developer&descAlignY=65&descSize=25&animation=fadeIn" alt="Header Aris" width="100%"/>
 
-  <br/>
-
-  <p align="center">
-    Saya adalah mahasiswa Informatika yang fokus menjembatani desain dan kode. <br/>
-    Spesialisasi saya adalah mengubah desain <b>Figma</b> menjadi website responsif yang fungsional.
-  </p>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/arisnaya" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:emailmu@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
-
-  <hr/>
-
-  <div align="left">
-    <ul>
-      <li>🔭 I’m currently working on <b>Property & Tourism Web Apps</b></li>
-      <li>🌱 I’m currently learning <b>React.js & Advanced Laravel</b></li>
-      <li>💼 Portfolio: <a href="https://balilocalsmiletour.netlify.app"><b>Lihat Website Saya</b></a></li>
-    </ul>
-  </div>
-
-  <br/>
-
-  <h3>🛠 Tech Stack & Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue"/>
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </p>
-
-  <br/>
-
-  <h3>📊 Coding Statistics</h3>
-  <a href="https://github.com/arisgghaha">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisgghaha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Building+Pixel-Perfect+Websites;Vue.js+%26+Laravel+Enthusiast;Let's+Collaborate!+🚀" alt="Typing SVG" />
   </a>
+
+  <br/><br/>
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  
+  <p>
+    Frontend Developer spesialis <b>Vue.js</b> & <b>Tailwind</b> dengan sentuhan backend <b>Laravel</b>.<br/>
+    Saya mengubah desain <i>Figma</i> menjadi kode yang bersih, responsif, dan interaktif.
+  </p>
+
+  <br/>
+
+  <h3>🛠️ Tech Arsenal</h3>
+  <img src="https://skillicons.dev/icons?i=vue,tailwind,laravel,php,mysql,figma,git,vscode&theme=dark" />
+
+  <br/><br/>
+
+  <a href="https://linkedin.com/in/arisnaya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-red?style=for-the-badge&logo=linkedin&logoColor=white&color=800000" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:emailmu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white&color=D00000" alt="Email"/>
+  </a>
+
+  <br/><br/>
+
+  <h3>📊 Coding Performance</h3>
+  
+  <img src="https://streak-stats.demolab.com?user=arisgghaha&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="160" alt="streak graph" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisgghaha&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&text_color=FFFFFF" alt="Top Langs" />
+
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=arisgghaha&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=FF0000" alt="General Stats" />
 
 </div>
