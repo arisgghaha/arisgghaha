@@ -5,6 +5,7 @@
   </a>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Aris+Bayu+%F0%9F%91%8B;UI%2FUX+%26+Frontend+Developer;Vue.js+%E2%80%A2+Tailwind+%E2%80%A2+Laravel" alt="Typing SVG" />
+  </br>
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="border-radius: 10px;" />
 
