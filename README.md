@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/arisgghaha">
-    <img src="https://raw.githubusercontent.com/arisgghaha/arisgghaha/main/image.png" width="100%" style="border-radius: 15px;" alt="Header Aris"/>
+    <img src="https://raw.githubusercontent.com/arisgghaha/arisgghaha/main/header.png" width="100%" style="border-radius: 15px;" alt="Header Aris"/>
   </a>
 
   <br/><br/>
